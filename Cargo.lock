@@ -8677,6 +8677,7 @@ dependencies = [
  "anyhow",
  "async-dispatcher",
  "base64 0.13.1",
+ "client",
  "collections",
  "editor",
  "env_logger",
